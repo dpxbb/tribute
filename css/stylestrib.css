@@ -1,7 +1,6 @@
 .jumbotron-fluid
 {
     margin-top: 0px;
-    background-image: "images/zbanner6.png";
     background-size: cover;
     background-position: 0 33%;
     padding: 150px;
@@ -11,6 +10,7 @@
 body
 {
     background-color:  #212529;
+    background-image: url("images/zbanner6.png");
 }
 .row
 {
